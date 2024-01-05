@@ -43,7 +43,7 @@
 .title {
   list-style: none;
 }
-.inpur,
+.input,
 .task__checkbox,
 .btn {
   outline: none;
@@ -130,7 +130,7 @@
 }
 
 /* Completed */
-.task#completed .task__label {
+#completed .task__label {
   text-decoration: line-through;
   color: #888;
 }
